@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://besiwucihedo.pages.dev/sitemap.xml
